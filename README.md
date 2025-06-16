@@ -2,7 +2,7 @@
 
 Backup Automático de Workflows do N8N para o GitHub:
 
-Este workflow faz backup diário dos seus fluxos de trabalho n8n direto em um repositório GitHub, criando ou atualizando arquivos JSON codificados em Base64.
+Este workflow deve fazer um backup diário dos seus fluxos no N8N direto para um repositório no GitHub, criando ou atualizando arquivos JSON.
 
 ---
 
